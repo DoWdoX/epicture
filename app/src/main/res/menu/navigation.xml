@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/prec"
+        android:background="#edbb34"
+        android:icon="@drawable/ic_navigate_before_black_24dp"
+        android:title="Précédent" />
+
+    <item
+        android:id="@+id/fav"
+        android:color="#edbb34"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="Ajouter Aux Favoris" />
+
+    <item
+        android:id="@+id/next"
+        android:background="#edbb34"
+        android:icon="@drawable/ic_navigate_next_black_24dp"
+        android:title="Suivant" />
+
+</menu>
